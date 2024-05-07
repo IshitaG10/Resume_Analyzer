@@ -18,7 +18,6 @@ from PIL import Image
 from Courses import ds_course, web_course, android_course, ios_course, uiux_course
 import plotly.express as px
 import time, datetime
-from g4f.client import Client
 import google.generativeai as palm
 import requests
 from bs4 import BeautifulSoup
@@ -30,7 +29,6 @@ import json
 dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)
 
-client = Client()
 
 palm.configure(api_key=os.getenv("PALM_API_KEY"))
 

@@ -7,7 +7,10 @@ plotly
 pymysql
 streamlit-tags
 Pillow
-youtube-dl
 nltk
 pdfminer3
 spacy
+requests
+google-generativeai
+beautifulsoup4
+python-dotenv
