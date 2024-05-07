@@ -1,11 +1,11 @@
 <p align="center"><img src="https://socialify.git.ci/IshitaG10/Resume_Analyzer/image?description=1&amp;descriptionEditable=A%20tool%20that%20helps%20in%20the%20analysis%20of%20resumes%20improving%20it%20and%20generating%20cover%20letters%20for%20jobs&amp;font=Rokkitt&amp;forks=1&amp;language=1&amp;name=1&amp;pattern=Formal%20Invitation&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
 <!-- <p align="center"><img src="https://img.shields.io/github/commit-activity/m/badges/squint" alt="shields"></p> -->
-<p align="center"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff" alt="shields"></p>
-<p align="center"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white
-" alt="shields"></p>
-<p align="center"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-" alt="shields"></p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <p align="center"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff" alt="shields"></p>
+    <p align="center"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="shields"></p>
+    <p align="center"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="shields"></p>
+</div>
 
 
 
