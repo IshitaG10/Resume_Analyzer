@@ -2,4 +2,4 @@
 venv
 database.db
 Uploaded_Resumes
-_pycache_
+__pycache__
