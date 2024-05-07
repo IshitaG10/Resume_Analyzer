@@ -2,9 +2,9 @@
 
 <!-- <p align="center"><img src="https://img.shields.io/github/commit-activity/m/badges/squint" alt="shields"></p> -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <p align="center"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff" alt="shields"></p>
-    <p align="center"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="shields"></p>
-    <p align="center"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="shields"></p>
+    <p><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff" alt="shields"></p>
+    <p><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="shields"></p>
+    <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="shields"></p>
 </div>
 
 
