@@ -1,5 +1,5 @@
 .env
 venv
 database.db
-Uploaded_Resumes
+# Uploaded_Resumes
 __pycache__
