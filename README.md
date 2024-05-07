@@ -6,19 +6,19 @@
 
 <img src="/Demo/1.png" alt="project-screenshot">
 
-<img src="/Demo/2.png" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/2.png" alt="project-screenshot">
 
-<img src="/Demo/3.png" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/3.png" alt="project-screenshot">
 
-<img src="/Demo/4.png" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/4.png" alt="project-screenshot">
 
-<img src="/Demo/5.png" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/5.png" alt="project-screenshot">
 
-<img src="/Demo/6.png" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/6.png" alt="project-screenshot">
 
-<img src="/Demo/7.png" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/7.png" alt="project-screenshot">
 
-<img src="/Demo/8.png" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/8.png" alt="project-screenshot">
   
   
 <h2>🧐 Features</h2>
