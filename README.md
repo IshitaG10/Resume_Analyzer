@@ -4,20 +4,21 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/1drwl_iq0nNdfRm4w7dfh6-coLeh-aILe/view?usp=sharing" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/1.png" alt="project-screenshot" width="200" height="200/">
 
-<img src="https://drive.google.com/file/d/1_Hi--SlspZl6jGPeyGrEZ86kbj0j66Jh/view?usp=sharing" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/2.png" alt="project-screenshot" width="200" height="200/">
 
-<img src="https://drive.google.com/file/d/1Ghmzib9-Gk03m7Nn29y0cxOwdbDQs8gp/view?usp=sharing" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/3.png" alt="project-screenshot" width="200" height="200/">
 
-<img src="https://drive.google.com/file/d/1TnqnJmUjbu3PIg9fY-WEmHq2z5G-L7Hs/view?usp=sharing" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/4.png" alt="project-screenshot" width="200" height="200/">
 
-<img src="https://drive.google.com/file/d/1CyNfvzKpQ68hftvdTCE9lJBEBv2X349I/view?usp=sharing" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/5.png" alt="project-screenshot" width="200" height="200/">
 
-<img src="https://drive.google.com/file/d/10qhpPzChLpq8Kh3Ho71UA2MfkZqJ2D1v/view?usp=sharing" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/6.png" alt="project-screenshot" width="200" height="200/">
 
-<img src="https://drive.google.com/file/d/18o5OWHAgf39rKai-439z1oBO3iGMFgew/view?usp=sharing" alt="project-screenshot" width="200" height="200/">
+<img src="/Demo/7.png" alt="project-screenshot" width="200" height="200/">
 
+<img src="/Demo/8.png" alt="project-screenshot" width="200" height="200/">
   
   
 <h2>🧐 Features</h2>
