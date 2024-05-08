@@ -89,9 +89,7 @@ streamlit run app.py
 ```
 docker-compose up -d
 ```
-```
-test
-```
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
