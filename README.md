@@ -85,6 +85,7 @@ streamlit run app.py
 <h2>🛠️ Installation using Docker:</h2>
 
 <p> To run the application</p>
+
 ```
 docker-compose up -d
 ```
