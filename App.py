@@ -237,8 +237,6 @@ def run():
             print(job_description_raw_text)
 
             # client  = Client()
-            # palm.configure(api_key="AIzaSyDPVmT7Jk0qYElffEEH8mp6Jtey74ntd4I")
-
             job_description = palm.generate_text(prompt=f"Get the job decription from the following text: {job_description_raw_text}.")
             print(job_description.result)
             resume_output = palm.generate_text(prompt=f"Get the job decription from the following text: {job_description_raw_text} and Write a keyword optimized resume for the specific job based on the extracte job description and by using the given information:{information}. For the bullet points, ensure decription is clear with the quantified achievment if necessary. For the skill section only list software skill. Keep the resume page to minimum 2 pages. Education and work experience are seperate entities")
